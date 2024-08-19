@@ -16,4 +16,4 @@ About:
     * java
 
 
-*Almost all repos are privated since they are client work*
+*Almost all my repos are private since they are client work*
