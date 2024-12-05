@@ -2,13 +2,13 @@
 
 About:
 * Currently working on [Summer camp Scout](https://summercampscout.com)
-* I worked at [Formative](https://Formativeco.com) (2016-2024)
+* Working at [QCI](https://quickcustomintelligence.com/)
+* Previously at [Formative](https://Formativeco.com) (2016-2024)
 *  Languages I use: 
     * Javascript/typescript
     * python
     * Go
-    * Rust 
-    * C++
+    * Swift
 
 
 *Almost all my repos are private since they are client work*
