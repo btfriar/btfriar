@@ -1,8 +1,8 @@
 ### Full Stack Engineer in Seattle.
 
 About:
-* Currently working on [Summer camp Scout](https://summercampscout.com)
-* Working at [QCI](https://quickcustomintelligence.com/)
+* Currently Working on mobile apps at [QCI](https://quickcustomintelligence.com/)
+* Also working on [Summer camp Scout](https://summercampscout.com)
 * Previously at [Formative](https://Formativeco.com) (2016-2024)
 *  Languages I use: 
     * Javascript/typescript
